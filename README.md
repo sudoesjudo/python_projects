@@ -1,12 +1,5 @@
 # python_projects
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/sudoesjudo/python_projects?style=social&cacheSeconds=30)](https://github.com/sudoesjudo/python_projects/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/sudoesjudo?style=social&cacheSeconds=30)](https://github.com/sudoesjudo)
-[![GitHub forks](https://img.shields.io/github/forks/sudoesjudo/python_projects?style=social&cacheSeconds=30)](https://github.com/sudoesjudo/python_projects/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/sudoesjudo/python_projects?style=social&cacheSeconds=30)](https://github.com/sudoesjudo/python_projects/watchers)
-
-
-
 This repo will host what I am learning regarding Python and Network Automation.
 
 ## Introduction
