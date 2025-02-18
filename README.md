@@ -50,4 +50,7 @@ Inspiration, code snippets, etc.
 * [learning_python](https://github.com/twin-bridges/learning_python) - by Kirk Byers
 * [simple README](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc) - by DomPizzie
 
+Some of these programs are replicated from Kirk Byers' free Python for Network Automation course. I have linked his repo above for any that would like to check out his work. 
+
+You can enroll for free to his email course on his website: https://pynet.twb-tech.com/free-python-course.htmlcourse
 
