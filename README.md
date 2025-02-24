@@ -9,11 +9,10 @@ From abosulte basics to full on Network Automation. This will be a portfolio for
 
 ## How it works
 
-I will add to this list over time as new things arise. Below is a list of dependencies and libraries needed for my scripts and programs.
-
+- I will add to this list over time as new things arise.  
+- Within each lesson or project, there may be files used in the Python programs that will be in the respective folder for the program or lesson. 
+  
 ### Dependencies
-
-Within each lesson, there will be files used in the Python programs. 
 
 #### Here is a fancy list of dependencies:
 - python3.10+
