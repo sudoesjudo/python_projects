@@ -13,6 +13,7 @@ As I progress through my studies and explore new ideas, I will continue to add d
 | **Project Name**      | **Description** |
 |----------------------|-----------------|
 | **Ping Script**       | A simple script that prompts the user to input an IP address and then pings it. It detects the operating system and executes the appropriate ping command for either Windows or Linux. |
+| **Better Ping**       | Runs a single ping command with multiple attempts and parses the output to display success/failure for each ping response individually. |
 
 ### Bash Scripts ♻️
 
