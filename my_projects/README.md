@@ -1,4 +1,4 @@
-# My Personal Python Projects
+# My Personal Projects
 
 This folder contains various Python projects that I’m working on outside of my coursework or professional projects. These are personal experiments, learning exercises, and ideas I’m developing in my own time.
 
