@@ -19,7 +19,7 @@ As I progress through my studies and explore new ideas, I will continue to add d
 
 | **Project Name**      | **Description** |
 |-----------------------|-----------------|
-| **Auto-Venv**    | A bash script to automate activating your specified virtual environment upon changing to a specified directory. Any time you 'cd' to your directory, the venv of your choice will be activated! |
+| **Auto-Venv**    | A bash script to automate activating your specified virtual environment upon changing to a specified directory. Any time you 'cd' to your directory, the venv of your choice will be activated!<br>**Updated the script to account for deactivating after leaving your directory and for if you cd past the desired directory. |
 
 ## Future Projects 🚀🚀
 
